@@ -1,0 +1,301 @@
+age,salary,years_exp,hours_per_week,performance_score,gender,department,education,employment_type,promoted
+62.0,27443.0,10.0,37.0,3.8,Female,Sales,High School,Part-time,0
+49.0,100993.0,2.0,28.0,3.8,Female,Sales,High School,Full-time,1
+69.0,100916.0,5.0,44.0,2.5,Male,Engineering,Master,Part-time,0
+47.0,98319.0,8.0,59.0,1.7,Female,Engineering,PhD,Contract,0
+64.0,42368.0,5.0,33.0,2.7,,Sales,Bachelor,Full-time,0
+52.0,40328.0,8.0,44.0,1.6,Male,HR,Bachelor,Full-time,0
+,81942.0,38.0,41.0,4.6,Male,Sales,Bachelor,Part-time,0
+69.0,,30.0,49.0,2.4,Female,Engineering,Master,,0
+33.0,52306.0,31.0,39.0,1.6,Male,Finance,Bachelor,Full-time,0
+30.0,110451.0,11.0,40.0,1.1,Male,Marketing,Bachelor,Full-time,0
+,64915.0,7.0,51.0,3.6,Male,Finance,Bachelor,Full-time,1
+59.0,62219.0,7.0,40.0,3.5,Female,Finance,Master,Part-time,1
+47.0,105879.0,27.0,,2.4,Female,Engineering,High School,Full-time,0
+36.0,89644.0,19.0,51.0,1.3,Female,Sales,Bachelor,Part-time,1
+34.0,85279.0,6.0,49.0,2.6,Male,HR,,Part-time,0
+36.0,78028.0,,58.0,2.2,,Finance,High School,Part-time,0
+45.0,25126.0,19.0,31.0,3.7,Female,Sales,High School,Full-time,1
+43.0,77329.0,15.0,37.0,3.4,Female,HR,Master,Full-time,1
+54.0,52632.0,3.0,40.0,2.5,Female,Finance,Master,Full-time,1
+43.0,90310.0,5.0,32.0,1.9,Male,HR,Master,Full-time,0
+40.0,80176.0,21.0,40.0,5.0,,Sales,,Part-time,0
+26.0,111066.0,,27.0,2.8,Male,Marketing,Bachelor,Full-time,1
+29.0,69327.0,2.0,59.0,3.8,Female,Sales,Master,Full-time,0
+18.0,93904.0,13.0,26.0,1.6,Male,Engineering,Bachelor,Full-time,0
+18.0,,10.0,42.0,2.9,Male,HR,Master,Part-time,1
+64.0,,17.0,51.0,1.1,Male,,PhD,Part-time,1
+51.0,38718.0,11.0,30.0,3.0,,HR,Bachelor,Full-time,1
+49.0,59560.0,22.0,41.0,4.9,Male,HR,Bachelor,,0
+65.0,101589.0,11.0,41.0,2.5,Female,Finance,Bachelor,Full-time,1
+,47116.0,12.0,44.0,1.2,Male,,High School,Full-time,0
+57.0,61244.0,24.0,41.0,,Male,HR,High School,Part-time,0
+62.0,26645.0,18.0,47.0,2.6,,Sales,Master,Full-time,0
+,72523.0,,48.0,1.6,Male,Sales,PhD,Contract,0
+33.0,44256.0,7.0,32.0,1.1,Male,Finance,,Full-time,0
+56.0,78173.0,28.0,37.0,4.0,Female,Engineering,High School,Full-time,1
+22.0,62430.0,31.0,21.0,2.8,Male,Engineering,High School,Contract,0
+39.0,64282.0,17.0,48.0,2.2,Male,Sales,Master,Full-time,0
+46.0,88374.0,5.0,40.0,4.6,Male,Marketing,Bachelor,Contract,0
+20.0,,17.0,34.0,1.5,Female,Finance,Bachelor,Contract,0
+29.0,36694.0,18.0,46.0,4.8,Female,Finance,Bachelor,Full-time,0
+43.0,81264.0,21.0,50.0,2.3,Female,Sales,Bachelor,Full-time,1
+33.0,100060.0,36.0,34.0,4.6,Female,Sales,Bachelor,Full-time,1
+,82545.0,31.0,42.0,3.4,Male,Marketing,Master,Full-time,0
+54.0,64224.0,2.0,43.0,,Male,Marketing,Bachelor,Full-time,1
+39.0,38224.0,27.0,,4.9,,Engineering,Master,Full-time,0
+46.0,65738.0,9.0,41.0,2.2,Male,Finance,Bachelor,Full-time,0
+31.0,50150.0,34.0,56.0,4.8,Male,Finance,Master,Full-time,1
+45.0,88731.0,28.0,52.0,2.6,Male,Sales,Master,Contract,0
+22.0,74688.0,14.0,22.0,,Male,Engineering,High School,Part-time,1
+64.0,98509.0,,38.0,2.4,Other,Finance,Bachelor,Part-time,0
+66.0,33577.0,6.0,42.0,3.2,Male,Engineering,Bachelor,Full-time,1
+47.0,33070.0,,48.0,1.6,Female,Engineering,Master,Part-time,0
+63.0,33666.0,29.0,,3.2,Male,Sales,,Full-time,0
+69.0,82761.0,20.0,58.0,3.2,Other,Engineering,PhD,Part-time,0
+22.0,61368.0,30.0,44.0,4.0,Male,Marketing,High School,Contract,1
+29.0,31783.0,23.0,56.0,4.3,Male,Marketing,Master,Full-time,0
+33.0,66914.0,19.0,27.0,2.8,Female,HR,Master,Full-time,1
+43.0,95507.0,36.0,35.0,2.2,Female,Sales,Master,Part-time,0
+,104026.0,3.0,27.0,2.0,Male,HR,,Contract,0
+65.0,92526.0,27.0,20.0,1.8,Male,Marketing,Bachelor,Part-time,0
+38.0,95835.0,19.0,24.0,1.2,Male,HR,Master,Full-time,0
+56.0,70765.0,23.0,22.0,2.4,Male,Sales,Bachelor,Full-time,1
+53.0,44956.0,31.0,20.0,2.1,Male,Sales,Bachelor,Full-time,0
+50.0,112895.0,35.0,23.0,4.9,Female,Engineering,Bachelor,Part-time,1
+47.0,71240.0,33.0,59.0,3.2,Male,Finance,Bachelor,Full-time,0
+54.0,62148.0,35.0,54.0,2.4,Male,Engineering,Bachelor,Part-time,0
+40.0,119270.0,1.0,51.0,,Female,Sales,Bachelor,Full-time,1
+27.0,,14.0,53.0,1.6,Other,Marketing,Bachelor,Full-time,0
+,44097.0,33.0,44.0,2.8,Female,Marketing,Master,Full-time,0
+53.0,35395.0,35.0,,3.5,Male,Engineering,Master,Part-time,1
+51.0,41241.0,5.0,40.0,3.0,Male,Sales,Master,Full-time,1
+69.0,52696.0,38.0,58.0,2.6,Female,Marketing,PhD,Full-time,0
+,95480.0,11.0,46.0,5.0,Male,Sales,Bachelor,Full-time,0
+27.0,,2.0,46.0,4.5,,Marketing,High School,Full-time,0
+36.0,44816.0,,21.0,3.5,Female,Sales,High School,Full-time,0
+49.0,74840.0,,32.0,3.3,Female,HR,Bachelor,Part-time,1
+18.0,77853.0,20.0,28.0,3.5,Female,Sales,PhD,Full-time,1
+,49917.0,14.0,,1.8,Male,Sales,Bachelor,Full-time,0
+62.0,46566.0,32.0,41.0,2.6,Male,Engineering,Bachelor,Part-time,0
+21.0,100452.0,34.0,45.0,1.2,Other,HR,Bachelor,Contract,0
+33.0,87823.0,25.0,31.0,2.9,Male,Finance,Bachelor,Full-time,0
+41.0,45806.0,7.0,36.0,3.2,Female,Engineering,Master,Full-time,0
+33.0,100520.0,35.0,33.0,1.9,Female,Finance,High School,Part-time,0
+,26759.0,29.0,33.0,,Female,Marketing,PhD,Contract,0
+66.0,66949.0,22.0,53.0,4.6,Male,Finance,Bachelor,Part-time,0
+45.0,117374.0,13.0,39.0,3.9,Male,Sales,High School,Full-time,0
+49.0,27482.0,13.0,30.0,3.1,Female,Finance,Master,Full-time,0
+44.0,49442.0,1.0,35.0,4.5,Female,Engineering,High School,Part-time,0
+37.0,58719.0,36.0,50.0,1.5,,Engineering,PhD,Full-time,0
+41.0,83066.0,4.0,25.0,4.2,Male,Finance,PhD,Full-time,0
+29.0,118501.0,37.0,38.0,1.5,Male,Engineering,Master,Part-time,0
+67.0,27079.0,13.0,56.0,4.2,Female,Engineering,Master,Full-time,0
+52.0,27717.0,38.0,,2.1,,Finance,Bachelor,Full-time,1
+50.0,84676.0,24.0,23.0,4.5,Female,HR,PhD,Full-time,1
+50.0,52952.0,19.0,39.0,,Male,,Bachelor,Full-time,1
+68.0,111444.0,1.0,29.0,1.6,Female,Marketing,Master,Full-time,0
+60.0,,38.0,43.0,2.9,Female,,PhD,Part-time,1
+54.0,115397.0,5.0,54.0,4.9,Female,Finance,PhD,Full-time,1
+,97847.0,16.0,45.0,2.9,Male,Engineering,Master,Full-time,0
+20.0,118607.0,24.0,,4.5,Male,Sales,Bachelor,Contract,0
+,114106.0,27.0,57.0,3.4,Female,,PhD,Full-time,1
+50.0,43449.0,1.0,40.0,2.5,Male,Engineering,Bachelor,Full-time,0
+57.0,58536.0,34.0,59.0,2.1,Male,HR,PhD,Contract,0
+27.0,89077.0,36.0,58.0,1.8,Female,Finance,Master,Part-time,1
+60.0,63258.0,4.0,40.0,4.0,Male,Engineering,Bachelor,,1
+61.0,73302.0,0.0,29.0,2.5,Female,HR,Bachelor,Part-time,0
+46.0,53865.0,39.0,57.0,,Male,Marketing,Bachelor,Full-time,0
+30.0,31645.0,11.0,23.0,3.0,Female,HR,Master,Part-time,0
+29.0,63000.0,35.0,39.0,3.3,Other,HR,Bachelor,Full-time,1
+,,22.0,36.0,4.5,Male,HR,Bachelor,Part-time,0
+63.0,36485.0,30.0,26.0,4.9,Male,Engineering,Bachelor,Full-time,0
+19.0,63565.0,10.0,,2.6,Male,Engineering,Master,Full-time,1
+68.0,50522.0,9.0,48.0,4.3,Male,Marketing,Bachelor,Full-time,0
+67.0,,2.0,33.0,,Female,Sales,High School,Full-time,1
+52.0,80168.0,13.0,22.0,3.3,Female,Sales,High School,Part-time,0
+40.0,77487.0,15.0,43.0,,Male,Sales,High School,Full-time,0
+34.0,37342.0,9.0,56.0,1.8,Male,Marketing,Bachelor,Full-time,0
+43.0,65806.0,28.0,35.0,1.4,Male,Sales,,Full-time,0
+25.0,73770.0,9.0,23.0,4.4,Female,Sales,High School,Full-time,0
+46.0,103623.0,11.0,43.0,2.8,Male,HR,PhD,,0
+43.0,,29.0,53.0,4.4,Female,Engineering,Master,Part-time,1
+27.0,77603.0,0.0,49.0,4.6,Female,Engineering,,Full-time,1
+43.0,106974.0,4.0,37.0,1.2,Female,HR,PhD,Contract,1
+51.0,,19.0,38.0,4.5,Male,HR,High School,Part-time,0
+68.0,110382.0,7.0,50.0,,Female,,Bachelor,Full-time,0
+58.0,106244.0,11.0,38.0,3.0,Male,Engineering,Bachelor,Full-time,0
+24.0,,0.0,38.0,3.5,Male,Sales,Bachelor,Contract,1
+21.0,80106.0,19.0,41.0,4.7,Female,HR,Bachelor,,0
+,55678.0,27.0,43.0,1.1,Female,Marketing,Bachelor,Part-time,1
+62.0,101218.0,36.0,31.0,2.9,,HR,Bachelor,,0
+28.0,88230.0,36.0,49.0,3.8,,Finance,Master,Full-time,1
+46.0,99055.0,11.0,57.0,,Male,,,Full-time,1
+53.0,81373.0,36.0,50.0,3.8,Male,Engineering,High School,Full-time,1
+42.0,56480.0,27.0,55.0,1.5,Male,HR,High School,Contract,0
+38.0,110230.0,14.0,38.0,,Male,Finance,Bachelor,Full-time,0
+53.0,93836.0,5.0,55.0,2.4,Male,,Bachelor,Full-time,0
+27.0,97258.0,19.0,49.0,,Female,Sales,High School,Contract,0
+54.0,64986.0,13.0,52.0,2.1,Female,HR,Master,Full-time,0
+26.0,,1.0,37.0,1.8,Female,Finance,Bachelor,Full-time,0
+41.0,110595.0,8.0,,4.8,Male,Finance,High School,Part-time,0
+52.0,104111.0,36.0,30.0,1.0,Female,Marketing,Master,Part-time,0
+66.0,89929.0,19.0,52.0,5.0,,Engineering,High School,Full-time,0
+52.0,98506.0,25.0,36.0,3.7,Female,HR,Bachelor,Full-time,0
+65.0,59911.0,28.0,25.0,,Female,Finance,Master,Full-time,1
+53.0,112127.0,0.0,23.0,2.2,Female,Marketing,Bachelor,Full-time,0
+,56821.0,34.0,39.0,1.1,Female,Sales,High School,Full-time,0
+66.0,100039.0,5.0,46.0,4.0,Male,Finance,Bachelor,Full-time,0
+56.0,85535.0,36.0,34.0,4.3,Female,Marketing,High School,Full-time,1
+,109458.0,4.0,25.0,4.0,Female,Engineering,High School,Full-time,0
+41.0,37175.0,32.0,33.0,1.6,,Engineering,Bachelor,Full-time,0
+40.0,,13.0,30.0,,Female,Finance,Bachelor,Full-time,0
+49.0,111925.0,11.0,58.0,4.1,Male,Finance,Bachelor,Part-time,0
+54.0,91358.0,19.0,28.0,3.6,Male,HR,Master,Part-time,0
+29.0,42327.0,23.0,45.0,,Female,Marketing,Bachelor,Full-time,1
+66.0,72057.0,33.0,35.0,4.4,Female,Finance,High School,Full-time,1
+30.0,31150.0,24.0,24.0,3.5,Female,HR,High School,Full-time,0
+40.0,29425.0,28.0,29.0,1.4,Male,HR,Master,Full-time,0
+42.0,41032.0,38.0,22.0,3.0,Male,Finance,Bachelor,Full-time,0
+52.0,27198.0,30.0,32.0,,Female,Engineering,Master,Full-time,0
+58.0,85500.0,22.0,49.0,2.6,Female,Marketing,Bachelor,,0
+47.0,,37.0,25.0,2.6,Female,Marketing,Bachelor,Part-time,0
+34.0,45079.0,,36.0,,Male,Engineering,Bachelor,Full-time,1
+66.0,61220.0,22.0,38.0,,Female,Finance,Bachelor,Full-time,1
+37.0,66874.0,15.0,54.0,1.4,Male,Marketing,Bachelor,Part-time,0
+65.0,38859.0,7.0,45.0,4.2,Female,Finance,Bachelor,Full-time,0
+42.0,75460.0,20.0,24.0,4.8,Male,Finance,Bachelor,Full-time,0
+39.0,56419.0,0.0,48.0,1.3,Male,HR,Bachelor,Full-time,0
+30.0,33705.0,7.0,56.0,4.8,Female,Engineering,Master,Full-time,0
+,67880.0,28.0,,3.1,Female,Finance,PhD,Part-time,0
+66.0,48236.0,31.0,,2.2,,Sales,Bachelor,Full-time,1
+53.0,112955.0,,29.0,1.3,,Engineering,Bachelor,,1
+,110514.0,4.0,24.0,3.0,Male,Marketing,High School,Full-time,0
+58.0,40358.0,21.0,55.0,4.2,Male,HR,Master,Full-time,1
+36.0,119914.0,33.0,25.0,3.8,Male,Marketing,Bachelor,Part-time,0
+29.0,101918.0,0.0,45.0,1.2,Male,Marketing,PhD,Part-time,0
+26.0,39596.0,25.0,23.0,1.3,Female,Engineering,Bachelor,Full-time,0
+24.0,58572.0,9.0,58.0,2.6,Male,Marketing,Bachelor,Full-time,0
+45.0,103757.0,29.0,58.0,2.2,Female,Finance,Bachelor,Full-time,0
+31.0,26279.0,17.0,54.0,1.9,Female,Marketing,Master,Part-time,0
+48.0,88197.0,16.0,20.0,2.1,Male,HR,Bachelor,Full-time,1
+69.0,87516.0,25.0,43.0,4.2,Female,HR,Bachelor,Full-time,0
+36.0,32083.0,7.0,55.0,4.7,Male,Sales,PhD,Full-time,0
+64.0,,39.0,25.0,,Female,,High School,Full-time,0
+33.0,54975.0,11.0,50.0,4.6,Male,Marketing,Master,Full-time,1
+22.0,70648.0,26.0,39.0,2.3,Male,HR,High School,Full-time,0
+52.0,73285.0,7.0,43.0,2.9,Male,Engineering,Master,Full-time,1
+29.0,44063.0,24.0,44.0,1.9,Male,HR,Bachelor,Full-time,1
+42.0,92642.0,3.0,55.0,3.6,Male,Finance,,Full-time,0
+69.0,115093.0,32.0,40.0,4.9,Female,Engineering,Master,Part-time,1
+38.0,111143.0,0.0,49.0,3.4,Female,Sales,High School,Full-time,0
+53.0,62599.0,18.0,43.0,2.4,Female,Finance,Bachelor,Full-time,0
+40.0,76920.0,30.0,49.0,,Female,Marketing,,Full-time,1
+33.0,53529.0,15.0,41.0,1.5,Male,Marketing,Bachelor,Full-time,0
+56.0,60954.0,13.0,47.0,4.6,Male,Marketing,,Full-time,0
+62.0,52856.0,4.0,26.0,3.0,Male,Finance,High School,,0
+59.0,27573.0,25.0,54.0,,Male,Finance,High School,Full-time,0
+56.0,103344.0,,47.0,3.3,Female,Finance,High School,Contract,1
+31.0,60367.0,1.0,33.0,3.5,Female,Engineering,High School,Full-time,0
+48.0,85774.0,5.0,29.0,1.3,Male,Engineering,Bachelor,Full-time,1
+22.0,48752.0,8.0,35.0,3.7,Male,Marketing,Master,Full-time,0
+52.0,80029.0,32.0,35.0,2.0,Female,,PhD,Full-time,1
+40.0,42685.0,24.0,50.0,3.9,Female,Marketing,Master,Part-time,0
+46.0,76693.0,12.0,44.0,4.3,Male,Sales,High School,Part-time,0
+60.0,80961.0,,32.0,4.2,Female,Engineering,Bachelor,Part-time,1
+28.0,101908.0,,25.0,3.2,Female,Finance,High School,Contract,0
+,99532.0,30.0,28.0,3.1,Male,Engineering,Bachelor,Part-time,0
+64.0,106994.0,10.0,55.0,,Male,Finance,Bachelor,Full-time,0
+29.0,81133.0,3.0,39.0,,Female,Sales,High School,Full-time,1
+,86268.0,33.0,37.0,2.1,Female,Sales,Bachelor,Full-time,0
+27.0,117201.0,37.0,40.0,,Female,Engineering,PhD,Full-time,1
+61.0,63243.0,3.0,23.0,,Male,Finance,,Part-time,0
+34.0,,37.0,52.0,1.5,,Sales,Bachelor,Full-time,0
+55.0,56653.0,18.0,46.0,3.5,Female,Marketing,High School,Full-time,1
+24.0,51657.0,5.0,26.0,1.2,Female,Marketing,Bachelor,Full-time,1
+63.0,,33.0,25.0,4.0,,Finance,Master,Full-time,1
+30.0,47180.0,17.0,34.0,2.3,Female,,High School,Full-time,1
+57.0,103411.0,12.0,37.0,1.0,Female,Sales,Bachelor,Full-time,0
+59.0,26622.0,22.0,,3.0,,Engineering,High School,Full-time,0
+26.0,73756.0,18.0,,,Female,Marketing,Bachelor,Full-time,0
+67.0,65809.0,10.0,39.0,2.1,Female,Sales,High School,Full-time,1
+44.0,41725.0,0.0,43.0,,Male,Engineering,Master,Full-time,1
+19.0,86396.0,23.0,34.0,1.3,Female,HR,Master,Full-time,0
+22.0,76226.0,6.0,26.0,4.4,Male,Finance,Master,Full-time,0
+46.0,106182.0,24.0,40.0,1.0,,Finance,Bachelor,Full-time,0
+54.0,107565.0,20.0,45.0,2.0,Male,HR,Master,Full-time,1
+55.0,54402.0,14.0,33.0,4.0,Female,Marketing,Bachelor,Full-time,0
+36.0,29263.0,0.0,56.0,2.3,Male,Sales,Bachelor,Full-time,0
+25.0,71828.0,11.0,40.0,1.4,Male,Finance,Bachelor,Full-time,0
+65.0,72924.0,6.0,37.0,2.4,Male,HR,High School,Full-time,1
+62.0,99182.0,14.0,24.0,2.1,Male,HR,High School,Full-time,1
+18.0,118065.0,20.0,22.0,4.4,Female,Marketing,Master,Part-time,0
+39.0,84052.0,18.0,42.0,2.3,Female,Marketing,Bachelor,Full-time,0
+69.0,,28.0,45.0,4.2,Female,Engineering,Bachelor,Contract,0
+34.0,60737.0,24.0,56.0,4.6,Male,Finance,Bachelor,Full-time,1
+24.0,114563.0,32.0,43.0,2.7,Male,Engineering,Master,Full-time,1
+42.0,54373.0,,38.0,4.6,Male,HR,,Full-time,0
+62.0,61397.0,34.0,44.0,2.5,Male,Sales,,Full-time,0
+,111145.0,37.0,40.0,4.9,Female,Sales,Bachelor,Full-time,0
+53.0,63709.0,25.0,31.0,1.4,Male,Marketing,High School,Full-time,0
+23.0,86120.0,10.0,52.0,,Male,Sales,,Full-time,1
+48.0,44250.0,34.0,23.0,3.0,Male,Sales,High School,Full-time,0
+36.0,46172.0,7.0,26.0,,Male,Sales,High School,Full-time,0
+61.0,36555.0,13.0,41.0,3.5,Female,HR,Bachelor,Full-time,0
+56.0,112410.0,9.0,52.0,,Female,Sales,Bachelor,Full-time,0
+,103617.0,1.0,36.0,1.0,Male,Sales,PhD,Full-time,0
+27.0,78276.0,8.0,43.0,1.7,Male,Sales,Bachelor,Part-time,0
+43.0,82492.0,2.0,53.0,,Male,Engineering,Bachelor,Part-time,0
+36.0,78002.0,20.0,47.0,3.7,Male,HR,High School,Contract,1
+56.0,114599.0,25.0,58.0,4.9,Male,Marketing,PhD,Full-time,0
+20.0,97355.0,,41.0,4.0,Female,Engineering,Master,Part-time,0
+62.0,116248.0,1.0,36.0,4.8,Female,Finance,Master,Part-time,1
+30.0,49762.0,5.0,53.0,3.8,,HR,PhD,Full-time,0
+67.0,36046.0,27.0,25.0,2.2,Male,HR,Bachelor,Full-time,1
+45.0,53769.0,28.0,25.0,,Male,Finance,Bachelor,Contract,0
+37.0,78302.0,25.0,53.0,,Female,Finance,Bachelor,Full-time,0
+45.0,48150.0,24.0,,3.6,Female,Finance,Bachelor,Full-time,0
+25.0,93247.0,11.0,,1.2,Female,Marketing,,Full-time,0
+58.0,29853.0,4.0,40.0,2.4,Male,Sales,Bachelor,Full-time,0
+56.0,119613.0,33.0,24.0,4.8,Female,HR,PhD,Part-time,1
+18.0,114399.0,36.0,21.0,3.0,Male,Sales,PhD,Full-time,0
+20.0,46792.0,14.0,41.0,2.7,Female,Sales,Master,Full-time,0
+30.0,84129.0,35.0,,,Female,Finance,Master,Full-time,0
+45.0,99478.0,14.0,29.0,1.8,Female,Marketing,Master,Full-time,0
+66.0,92298.0,22.0,53.0,2.5,Male,Engineering,High School,Full-time,0
+42.0,56987.0,5.0,35.0,2.5,Female,Marketing,High School,Full-time,0
+50.0,40850.0,20.0,58.0,1.2,Male,Sales,Master,Part-time,1
+55.0,37112.0,,41.0,4.1,Male,Marketing,Master,Full-time,1
+23.0,49058.0,15.0,31.0,2.7,Male,Finance,High School,Full-time,0
+61.0,70420.0,14.0,43.0,4.3,Female,Engineering,PhD,Full-time,0
+62.0,63890.0,24.0,59.0,,Male,Finance,High School,Full-time,1
+49.0,91017.0,35.0,57.0,1.8,Male,Engineering,Bachelor,Part-time,1
+62.0,72304.0,10.0,29.0,3.6,Female,Sales,,Part-time,0
+64.0,57921.0,14.0,54.0,,Male,Engineering,High School,Part-time,1
+38.0,26524.0,3.0,,4.5,Female,Engineering,High School,Full-time,0
+33.0,,20.0,26.0,1.9,Male,Engineering,Bachelor,Full-time,1
+38.0,60111.0,,40.0,3.7,Male,Marketing,Master,Full-time,0
+28.0,62904.0,21.0,39.0,3.4,Female,Marketing,Bachelor,Full-time,0
+54.0,79912.0,18.0,45.0,,Male,Sales,Master,Part-time,1
+53.0,59008.0,33.0,23.0,1.5,Male,Engineering,Bachelor,Part-time,0
+52.0,25060.0,13.0,41.0,3.6,Female,HR,High School,Part-time,0
+36.0,99666.0,3.0,34.0,4.0,Female,Sales,PhD,,0
+37.0,108559.0,26.0,59.0,2.3,Female,Engineering,High School,Part-time,1
+35.0,80337.0,28.0,,3.6,Male,Engineering,PhD,Full-time,1
+64.0,38350.0,27.0,34.0,2.6,Male,Marketing,Bachelor,Full-time,1
+58.0,49354.0,34.0,41.0,3.9,Female,Sales,PhD,Full-time,0
+,70186.0,,,1.8,Female,Engineering,High School,Full-time,1
+31.0,53145.0,15.0,33.0,4.6,Female,Engineering,Bachelor,Full-time,0
+32.0,59020.0,35.0,46.0,2.1,,Sales,High School,Full-time,0
+48.0,111123.0,29.0,59.0,2.5,Female,HR,High School,Part-time,1
+18.0,100186.0,17.0,47.0,1.2,,Sales,Bachelor,Full-time,0
+,110469.0,,45.0,1.4,Male,Sales,Bachelor,Part-time,0
+,45581.0,12.0,21.0,3.1,Female,HR,Bachelor,Part-time,0
+40.0,113929.0,3.0,44.0,2.1,Male,Sales,High School,Full-time,0
+28.0,48051.0,25.0,22.0,4.3,Male,Engineering,Bachelor,Full-time,1
+29.0,76474.0,24.0,27.0,1.1,Female,Sales,Master,Full-time,0
+27.0,116748.0,29.0,52.0,2.5,Female,HR,Bachelor,Part-time,1
+49.0,94626.0,10.0,54.0,2.3,Male,Finance,,Part-time,0
+33.0,31960.0,6.0,25.0,1.1,Male,Sales,Bachelor,Part-time,0
+25.0,60772.0,30.0,,1.5,,Marketing,Master,Full-time,0
+55.0,46520.0,9.0,42.0,2.7,Female,Engineering,Bachelor,Full-time,1
